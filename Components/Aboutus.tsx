@@ -4,8 +4,8 @@ import { TiTick } from "react-icons/ti";
 
 const Aboutus = () => {
   return (
-    <div  className='flex items-center justify-center bg-white h-screen -mt-[120px] md:-mt-[120px] '>
-      <div id='Aboutus' className='grid md:grid-flow-col items-center justify-center gap-2 p-3 mt-[350px] md:mt-[450px]'>
+    <div  className='flex items-center justify-center bg-white h-screen  md:-mt-[120px] '>
+      <div id='Aboutus' className='grid md:grid-flow-col items-center justify-center gap-2 p-3 mt-[150px] md:mt-[400px]'>
         <div className='p-2'>
         <Image
         src="/Aboutus.jpg"
