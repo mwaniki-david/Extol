@@ -10,7 +10,7 @@ const Services = () => {
         <div>
           <div>
             <p  className='text-black uppercase max-w-[190px] px-4 font-semibold '>How We Work</p>
-            <h1  className='text-black text-3xl lg:text-5xl uppercase px-4 font-extrabold'>OUR sERVICES</h1>
+            <h1  className='text-black text-5xl lg:text-6xl uppercase px-4 font-extrabold'>OUR sERVICES</h1>
           </div>
           <div className='grid grid-flow-row md:grid-flow-col grid-rows-2 text-white    rounded-lg w-auto p-6 gap-8'>
         <div className=' bg-[#FF9900] rounded-3xl p-2 gap-10 text-bold'>

@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <div className=' h-auto  p-3  bg-[#0085FF] border-b-2'>
       <div className='flex items-center justify-center p-2 px-6'>
-        <div className='grid grid-flow-col gap-[300px] md:gap-[550px] lg:gap-20'>
+        <div className='flex justify-between gap-[250px] md:gap-[550px] lg:gap-20 '>
             <div className='flex gap-1 P-2 Px-3 '>
                 <p className='text-4xl font-extrabold text-gray-900 dark:text-white '>Extol</p>
             </div>
