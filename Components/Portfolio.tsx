@@ -7,18 +7,18 @@ const Portfolio = () => {
   let iconStyles = { color: "white", fontSize: "2.5em" };
   return (
 
-    <div className='h-auto md:h-screen w-screen bg-blue-100 items-center justify-center '>
+    <div id='Portfolio' className='h-auto md:h-screen w-screen bg-blue-100 items-center justify-center '>
     <div className=' '>
     <div className='grid grid-flow-row lg:grid-flow-col items-center justify-center  p-6 '>
-      <div className=' max-w-[550px] p-2 md:mt-[40px]'>
+      <div className=' max-w-[600px] p-2 md:mt-[40px]'>
         <div className='text-black uppercase max-w-[190px] px-4 py-1'>
-          <p>Perfect Partner</p>
+          <p className='font-semibold'>Perfect Partner</p>
         </div>
         <div>
-          <p className='text-black text-5xl lg:text-7xl uppercase px-4 '>WE HAVE PRIORITY FOR outstanding results.</p>
+          <p className='text-black text-5xl lg:text-6xl font-extrabold uppercase px-4 '>WE HAVE PRIORITY FOR outstanding results.</p>
         </div>
         <div>
-          <p className='text-black px-4 py-2'>Explore our portfolio to see how Extol Writers can bring your vision to life with our diverse range of services. Thank you for choosing us – we look forward to working with you!.</p>
+          <p className='text-black px-4 py-2 p-3'>Explore our portfolio to see how Extol Writers can bring your vision to life with our diverse range of services. Thank you for choosing us – we look forward to working with you!.</p>
         </div>
         <div className=' px-6 py-2 ml-6 -mt-1 '>
         <Link href='#Services'>
@@ -46,7 +46,7 @@ const Portfolio = () => {
       alt="Portfolio1"
       className='relative z-0  -mt-[80px] ml-5 rounded-lg'/>
       </div>
-      <div className='relative p-6 hidden lg:block'>
+      <div className='relative  hidden lg:block mt-[10px]'>
       <Image
       src="/Portfolio3.jpg"
       width={400}

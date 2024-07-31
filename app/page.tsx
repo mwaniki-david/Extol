@@ -7,7 +7,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className='w-full overflow-y-scroll no-scrollbar'>
+    <div className='w-full overflow-y-scroll no-scrollbar scroll-smooth'>
       <Herosection/>
       <Aboutus/>
       <Services/>
