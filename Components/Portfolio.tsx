@@ -29,22 +29,22 @@ const Portfolio = () => {
       <div className='relative p-2 lg:hidden'>
       <Image
       src="/Portfolio3.jpg"
-      width={200}
-      height={200}
+      width={170}
+      height={170}
       alt="Portfolio4"
-      className='absolute z-0 ml-[220px] -mt-[40px] rounded-lg'/>
+      className='absolute z-0 ml-[190px] -mt-[40px] rounded-lg'/>
       <Image
       src="/Portfolio4.jpg"
-      width={200}
-      height={200}
+      width={170}
+      height={170}
       alt="Portfolio4"
-      className=' z-10 ml-[130px] mt-[40px] rounded-lg'/>
+      className=' z-10 ml-[130px] mt-[30px] rounded-lg'/>
       <Image
       src="/Portfolio1.jpg"
-      width={200}
-      height={200}
+      width={170}
+      height={170}
       alt="Portfolio1"
-      className='relative z-0  -mt-[80px] ml-5 rounded-lg'/>
+      className='relative z-0  -mt-[90px] ml-4 rounded-lg'/>
       </div>
       <div className='relative  hidden lg:block mt-[10px]'>
       <Image

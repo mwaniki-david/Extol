@@ -19,27 +19,27 @@ const Services = () => {
           <TiArrowRightOutline style={iconStyles} className='p-2' />
         </div>
         <div className=' bg-[#59AFFF] rounded-3xl p-2 gap-10 text-bold'>
-          <h1 className='text-2xl text-1xl uppercase p-2 text-bold'>Content Writing</h1>
+          <h1 className='md:text-2xl text-1xl uppercase p-2 text-bold'>Content Writing</h1>
           <h2 className='text-1xl p-2'>High-quality content creation for blogs, websites, marketing materials, and more. Our writers produce compelling and SEO-friendly content.</h2>
           <TiArrowRightOutline style={iconStyles} className='p-2' />
         </div>
         <div className=' bg-black rounded-3xl p-2 gap-10 text-bold'>
-          <h1 className='text-2xl text-1xl uppercase p-2 text-bold'>Video Editing</h1>
+          <h1 className='md:text-2xl text-1xl uppercase p-2 text-bold'>Video Editing</h1>
           <h2 className='text-1xl p-2'>Professional video editing services to create polished and engaging videos for various purposes. We enhance visuals, sound, and special effects.</h2>
           <TiArrowRightOutline style={iconStyles} className='p-2' />
         </div>
         <div className=' bg-black rounded-3xl p-2 gap-10 text-bold'>
-          <h1 className='text-2xl text-1xl uppercase p-2 text-bold'>Software Development</h1>
+          <h1 className='md:text-2xl text-1xl uppercase p-2 text-bold'>Software Development</h1>
           <h2 className='text-1xl p-2'>Custom software solutions tailored to your business needs, from web applications to mobile apps. Our team ensures seamless integration and functionality.</h2>
           <TiArrowRightOutline style={iconStyles} className='p-2' />
         </div>
         <div className=' bg-[#59AFFF] rounded-3xl p-2 gap-10 text-bold'>
-          <h1 className='text-2xl text-1xl uppercase p-2 text-bold'>Transcription Services</h1>
+          <h1 className='md:text-2xl text-1xl uppercase p-2 text-bold'>Transcription Services</h1>
           <h2 className='text-1xl p-2'>Accurate and timely transcription of audio and video files into text format. We handle various languages and specialized terminology.</h2>
           <TiArrowRightOutline style={iconStyles} className='p-2' />
         </div>
         <div className=' bg-[#FF9900] rounded-3xl p-2 gap-10 text-bold'>
-          <h1 className='text-2xl text-1xl uppercase p-2 text-bold'>Digital Marketing</h1>
+          <h1 className='md:text-2xl text-1xl uppercase p-2 text-bold'>Digital Marketing</h1>
           <h2 className='text-1xl p-2'>Comprehensive digital marketing strategies to boost your online presence and reach your target audience. Our campaigns are data-driven and results-oriented.</h2>
           <TiArrowRightOutline style={iconStyles} className='p-2' />
         </div>
