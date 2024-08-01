@@ -5,7 +5,7 @@ import { TiArrowRightOutline } from "react-icons/ti";
 const Services = () => {
   let iconStyles = { color: "white", fontSize: "2.5em" };
   return (
-    <div  id='Services' className='flex bg-white h-auto md:h-screen mt-[70px] md:mt-[300px] items-center justify-center p-2 '>
+    <div  id='Services' className='flex bg-white h-auto md:h-screen mt-[35px] md:mt-[300px] items-center justify-center p-2 '>
       <div className='p-2 px-12'>
         <div>
           <div>
