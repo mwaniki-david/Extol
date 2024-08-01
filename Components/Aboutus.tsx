@@ -5,7 +5,7 @@ import { TiTick } from "react-icons/ti";
 const Aboutus = () => {
   return (
     <div  className='flex items-center justify-center bg-white h-screen  md:-mt-[120px] '>
-      <div id='Aboutus' className='grid md:grid-flow-col items-center justify-center gap-2 p-3 mt-[45px] md:mt-[400px]'>
+      <div id='Aboutus' className='grid md:grid-flow-col items-center justify-center gap-2 p-3 mt-[60px] md:mt-[400px]'>
         <div className='p-2'>
         <Image
         src="/Aboutus.jpg"
@@ -26,8 +26,8 @@ const Aboutus = () => {
             <div className='text-black font-semibold uppercase max-w-[190px] px-4'>
             WHO WE ARE
             </div>
-            <div className='text-black font-extrabold text-[45px] lg:text-6xl uppercase px-4  md:max-w-[750px]'>
-            WE ARE PERFECT TEAM FOR high-quality services
+            <div className='text-black font-extrabold text-[43px] lg:text-6xl uppercase px-4  md:max-w-[750px]'>
+            WE ARE THE PERFECT TEAM FOR high-quality services
             </div>
             <div className='text-black px-7 py-3 text-sm md:text-md  md:max-w-[800px]'>
             We offer high-quality software development, transcription, video editing, content writing, graphic design, and digital marketing services.Understanding your unique needs is key to us. Our dedicated team listens and provides personalized solutions with a focus on responsiveness and reliability.Choose Extol Writers for unparalleled customer service and outstanding results. Thank you for choosing us – we look forward to working with you!

@@ -5,12 +5,12 @@ import { TiArrowRightOutline } from "react-icons/ti";
 const Services = () => {
   let iconStyles = { color: "white", fontSize: "2.5em" };
   return (
-    <div  id='Services' className='flex bg-white h-auto md:h-screen mt-[35px] md:mt-[300px] items-center justify-center p-2 '>
+    <div  id='Services' className='flex bg-white h-auto md:h-screen mt-[55px] md:mt-[300px] items-center justify-center p-2 '>
       <div className='p-2 px-12'>
         <div>
           <div>
             <p  className='text-black uppercase max-w-[190px] px-4 font-semibold '>How We Work</p>
-            <h1  className='text-black text-[45px] lg:text-6xl uppercase px-4 font-extrabold'>OUR sERVICES</h1>
+            <h1  className='text-black text-[43px] lg:text-6xl uppercase px-4 font-extrabold'>OUR sERVICES</h1>
           </div>
           <div className='grid grid-flow-row  md:grid-flow-col md:grid-rows-2 text-white    rounded-lg w-auto p-6 gap-8'>
         <div className=' bg-[#FF9900] rounded-3xl p-2 gap-10 text-bold'>
