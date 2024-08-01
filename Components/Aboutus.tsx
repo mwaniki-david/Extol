@@ -26,7 +26,7 @@ const Aboutus = () => {
             <div className='text-black font-semibold uppercase max-w-[190px] px-4'>
             WHO WE ARE
             </div>
-            <div className='text-black font-extrabold text-5xl lg:text-6xl uppercase px-4  md:max-w-[750px]'>
+            <div className='text-black font-extrabold text-[45px] lg:text-6xl uppercase px-4  md:max-w-[750px]'>
             WE ARE PERFECT TEAM FOR high-quality services
             </div>
             <div className='text-black px-7 py-3 text-sm md:text-md  md:max-w-[800px]'>
