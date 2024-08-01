@@ -12,7 +12,7 @@ const Aboutus = () => {
         width={900}
         height={900}
         alt="Aboutus1"
-        className='rounded-lg ml-3 md:hidden'
+        className='rounded-lg  md:hidden'
         />
         <Image
         src="/Aboutus1.jpg"
