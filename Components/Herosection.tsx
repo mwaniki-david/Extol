@@ -37,11 +37,16 @@ const Herosection = () => {
       </div>
       <div className='flex items-center justify-center bg-[#0085FF] -mt-6 px-3 '>
       <div className=' grid grid-flow-col p-2 md:p-1 text-white   rounded-md w-auto lg:max-w-[1120px] lg:-mt-7'>
+        <Link href='Acadamicwriting'>
         <div className=' bg-black p-2 gap-10 text-bold rounded-lg '>
-          <h1 className=' flex lg:text-3xl uppercase p-1 md:p-2 font-bold items-center justify-center '>graphic design</h1>
+          <h1 className=' flex lg:text-3xl uppercase p-1 md:p-2 font-bold items-center justify-center '>Academic writing</h1>
           <h2 className='text-xs md:text-base md:p-2'>Creative and eye-catching designs for logos, brochures, social media, and other visual content. We help you build a strong  brand identity</h2>
+          <Link href='Acadamicwriting'>
           <TiArrowRightOutline style={iconStyles} className='p-2 lg:p-1' />
+          </Link>
+          
         </div>
+        </Link>
         <div className='bg-[#59AFFF] p-2 gap-10 rounded-lg'>
           <h1 className='flex items-center justify-center text-1xl lg:text-3xl uppercase p-1 md:p-2 font-bold'>Content Writing</h1>
           <h2 className='text-xs md:text-base md:p-2'>High-quality content creation for blogs, websites, marketing materials, and more. Our writers produce compelling and SEO-friendly content.</h2>

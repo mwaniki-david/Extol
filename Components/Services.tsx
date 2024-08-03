@@ -14,7 +14,7 @@ const Services = () => {
           </div>
           <div className='grid grid-flow-row  md:grid-flow-col md:grid-rows-2 text-white    rounded-lg w-auto p-6 gap-8'>
         <div className=' bg-[#FF9900] rounded-3xl p-2 gap-10 text-bold'>
-          <h1 className='md:text-2xl text-1xl uppercase p-2 text-bold'>graphic design</h1>
+          <h1 className='md:text-2xl text-1xl uppercase p-2 text-bold'>Academic writing</h1>
           <h2 className=' md:text-1xl   p-2'>Creative and eye-catching designs for logos, brochures, social media, and other visual content. We help you build a strong  brand identity</h2>
           <TiArrowRightOutline style={iconStyles} className='p-2' />
         </div>
