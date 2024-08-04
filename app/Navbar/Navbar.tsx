@@ -14,24 +14,12 @@ const Navbar = () => {
             <div className='flex'>
                 <div className=' px-5 py-2 hidden lg:block'>
                   <ul className='flex gap-10 text-white text-[15px] font-bold'>
-                    <li>
                     <Link href="#" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900]  ">HOME</Link>
-                    </li>
-                    <li>
-                    <a href="#Aboutus" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900] md:me-6 ">ABOUT US</a>
-                    </li>
-                    <li>
-                    <a href="#Services" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900] md:me-6 ">OUR SERVICES</a>
-                    </li>
-                    <li>
-                    <a href="#Services" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900] md:me-6 ">OUR PROJECTS</a>
-                    </li>
-                    <li>
-                    <a href="#Portfolio" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900] md:me-6 ">PORTFOLIO</a>
-                    </li>
-                    <li>
-                    <a href="#" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900] md:me-6 ">PAGES</a>
-                    </li>
+                    <Link href="#Aboutus" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900] md:me-6 ">ABOUT US</Link>
+                    <Link href="#Services" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900] md:me-6 ">OUR SERVICES</Link>
+                    <Link href="#Services" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900] md:me-6 ">OUR PROJECTS</Link>
+                    <Link href="#Portfolio" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900] md:me-6 ">PORTFOLIO</Link>
+                    <Link href="#" className="me-4 hover:underline underline-offset-[7px] decoration-[#FF9900] md:me-6 ">PAGES</Link>
                   </ul>
                 </div>
                 <div className='flex'>

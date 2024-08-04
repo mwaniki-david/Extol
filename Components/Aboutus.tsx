@@ -36,18 +36,18 @@ const Aboutus = () => {
               <div className='hidden md:grid grid-flow-col '>
                 <div className='ml-12'>
                   <ul className='p-3'>
-                    <h1 className='flex flex-row p-2 gap-2'><TiTick />Flexible Time</h1>
-                    <h1 className='flex flex-row p-2 gap-2'><TiTick />Perfect Work</h1>
-                    <h1 className='flex flex-row p-2 gap-2'><TiTick />Client Priority</h1>
-                    <h1 className='flex flex-row p-2 gap-2'><TiTick />Flexible Time</h1>
+                    <li className='flex flex-row p-2 gap-2'><TiTick />Flexible Time</li>
+                    <li className='flex flex-row p-2 gap-2'><TiTick />Perfect Work</li>
+                    <li className='flex flex-row p-2 gap-2'><TiTick />Client Priority</li>
+                    <li className='flex flex-row p-2 gap-2'><TiTick />Flexible Time</li>
                   </ul>
                 </div>
                 <div className='-ml-[190px]'>
                   <ul className='p-3'>
-                    <h1 className='flex flex-row p-2 gap-2'><TiTick />Flexible Time</h1>
-                    <h1 className='flex flex-row p-2 gap-2'><TiTick />Perfect Work</h1>
-                    <h1 className='flex flex-row p-2 gap-2'><TiTick />Client Priority</h1>
-                    <h1 className='flex flex-row p-2 gap-2'><TiTick />Flexible Time</h1>
+                    <li className='flex flex-row p-2 gap-2'><TiTick />Flexible Time</li>
+                    <li className='flex flex-row p-2 gap-2'><TiTick />Perfect Work</li>
+                    <li className='flex flex-row p-2 gap-2'><TiTick />Client Priority</li>
+                    <li className='flex flex-row p-2 gap-2'><TiTick />Flexible Time</li>
                   </ul>
                 </div>
 
