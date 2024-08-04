@@ -33,7 +33,7 @@ const Services = () => {
           <h2 className='text-1xl p-2'>Custom software solutions tailored to your business needs, from web applications to mobile apps. Our team ensures seamless integration and functionality.</h2>
           <TiArrowRightOutline style={iconStyles} className='p-2' />
         </div>
-        <div className=' bg-[#59AFFF] rounded-3xl p-2 gap-10 text-bold'>
+        <div className=' bg-[#59AF0F] rounded-3xl p-2 gap-10 text-bold'>
           <h1 className='md:text-2xl text-1xl uppercase p-2 text-bold'>Transcription Services</h1>
           <h2 className='text-1xl p-2'>Accurate and timely transcription of audio and video files into text format. We handle various languages and specialized terminology.</h2>
           <TiArrowRightOutline style={iconStyles} className='p-2' />
