@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 
 const page = () => {
@@ -24,9 +25,9 @@ const page = () => {
           <input className='p-2 border shadow-md rounded-md border-black ' type="text" name="name" placeholder='Upload Doc' />
           <input className='p-2 border shadow-md rounded-md border-black' type="text" name="name" placeholder='Time Period'/>
           <input className='p-2 border shadow-md rounded-md border-black' type="text" name="name" placeholder='payment method' />
-          <button className='px-12 p-2 bg-[#FF9900] rounded-lg uppercase font-bold'>
-            submit
-          </button>
+          <Link href='Checkout'>
+          <button className='bg-[#FF9900] font-extrabold p-3 md:px-10 px-8 rounded-md text-white md:py-5 '>Submit</button>
+          </Link>
           </div>
         </div>
       </form>
